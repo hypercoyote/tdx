@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T19:12:28.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.55" etag="kjRqPJjB_qO3yzU3WM2B" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T19:25:11.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.55" etag="yKjWSCTKhQo23uHplU3y" version="21.5.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1983" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1786" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry x="401.5" y="500" width="135" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RgH2JHaKkqkQcPpsvsZi-5" value="Web Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;fontSize=24;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="573" y="650" width="96" height="100" as="geometry" />
+          <mxGeometry x="590" y="590" width="96" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RgH2JHaKkqkQcPpsvsZi-6" value="Application &lt;br style=&quot;font-size: 24px;&quot;&gt;Server&lt;br&gt;192.168.100.50" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Empty_128x128.png;fontSize=24;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="730" y="330" width="140" height="100" as="geometry" />
@@ -128,13 +128,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--7" value="192.168.21.33" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;fontSize=24;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1470" width="225" height="260" as="geometry" />
+          <mxGeometry x="1339" y="1780" width="225" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=5;" edge="1" parent="1" source="Wq85AIhZ5kJpVe08NVn--8" target="Wq85AIhZ5kJpVe08NVn--7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="469" y="1400" />
-              <mxPoint x="1513" y="1400" />
+              <mxPoint x="408" y="1710" />
+              <mxPoint x="1452" y="1710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -144,20 +144,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--8" value="Server" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="309" y="1530" width="320" height="200" as="geometry" />
+          <mxGeometry x="248" y="1840" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--11" value="Web Server Software" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_website;pointerEvents=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1330" width="165" height="160" as="geometry" />
+          <mxGeometry x="189" y="1640" width="165" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--15" value="Email Server Software" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;aspect=fixed;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="669" y="1480" width="153" height="84.15" as="geometry" />
+          <mxGeometry x="608" y="1790" width="153" height="84.15" as="geometry" />
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;exitX=0.994;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=5;" edge="1" parent="1" source="Wq85AIhZ5kJpVe08NVn--8" target="Wq85AIhZ5kJpVe08NVn--7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="1970" as="sourcePoint" />
-            <mxPoint x="1534" y="1910" as="targetPoint" />
+            <mxPoint x="429" y="2280" as="sourcePoint" />
+            <mxPoint x="1473" y="2220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1400" y="1618" />
+              <mxPoint x="1339" y="1928" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -168,11 +168,11 @@
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=24;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=5;" edge="1" parent="1" source="Wq85AIhZ5kJpVe08NVn--8" target="Wq85AIhZ5kJpVe08NVn--7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="619.92" y="1828" as="sourcePoint" />
-            <mxPoint x="1392.92" y="1810" as="targetPoint" />
+            <mxPoint x="558.92" y="2138" as="sourcePoint" />
+            <mxPoint x="1331.92" y="2120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="549" y="1900" />
-              <mxPoint x="1400" y="1900" />
+              <mxPoint x="488" y="2210" />
+              <mxPoint x="1339" y="2210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -182,10 +182,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--20" value="File Server Software" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1793" width="150" height="130" as="geometry" />
+          <mxGeometry x="319" y="2103" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--21" value="Network Ports" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="484" y="1280" width="861" height="40" as="geometry" />
+          <mxGeometry x="423" y="1590" width="861" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
