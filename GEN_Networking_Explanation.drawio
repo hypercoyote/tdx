@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T19:11:07.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.55" etag="nHxbnzkx3uFFxThtgEsg" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T19:12:21.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.55" etag="h8vJmb97oicXlAi3iwF9" version="21.5.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1983" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             <mxPoint x="1000" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-62" value="Networking Explanations" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-62" value="Networking" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RgH2JHaKkqkQcPpsvsZi-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontSize=24;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -146,11 +146,11 @@
         <mxCell id="Wq85AIhZ5kJpVe08NVn--8" value="Server" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="309" y="1530" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Wq85AIhZ5kJpVe08NVn--11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_website;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1370" width="165" height="160" as="geometry" />
+        <mxCell id="Wq85AIhZ5kJpVe08NVn--11" value="Web Server Software" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_website;pointerEvents=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1330" width="165" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Wq85AIhZ5kJpVe08NVn--15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1510" width="153" height="84.15" as="geometry" />
+        <mxCell id="Wq85AIhZ5kJpVe08NVn--15" value="Email Server Software" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;aspect=fixed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="669" y="1480" width="153" height="84.15" as="geometry" />
         </mxCell>
         <mxCell id="Wq85AIhZ5kJpVe08NVn--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;exitX=0.994;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=5;" edge="1" parent="1" source="Wq85AIhZ5kJpVe08NVn--8" target="Wq85AIhZ5kJpVe08NVn--7">
           <mxGeometry relative="1" as="geometry">
@@ -181,8 +181,11 @@
             <mxPoint x="-104" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wq85AIhZ5kJpVe08NVn--20" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="573" y="1770" width="150" height="130" as="geometry" />
+        <mxCell id="Wq85AIhZ5kJpVe08NVn--20" value="File Server Software" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="382.38" y="1810" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq85AIhZ5kJpVe08NVn--21" value="Network Ports" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="484" y="1280" width="861" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
