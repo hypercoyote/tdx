@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T06:23:57.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="5NCe2c9NHOW43wbass0Q" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T12:45:47.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="kxpJkjOdLs_q_kzXPHg_" version="21.5.0" type="github">
   <diagram name="Page-1" id="Bt2hc6HdbGCJH089RcKH">
     <mxGraphModel dx="1791" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,20 +214,23 @@
         <mxCell id="Bl6N6wYxr86cR-2-UCs6-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/math-equal-128.png" parent="1" vertex="1">
           <mxGeometry x="194.04999999999995" y="30" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="-ZpnABaQW_X1ukxt01rs-2" value="" style="shape=link;html=1;rounded=0;fontSize=24;exitX=0.481;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;entryX=0.408;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="-ZpnABaQW_X1ukxt01rs-2" value="" style="shape=link;html=1;rounded=0;fontSize=24;exitX=0.481;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;entryX=0.408;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="1239.79" y="599.92" as="sourcePoint" />
             <mxPoint x="1240.79" y="669.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ZpnABaQW_X1ukxt01rs-1" value="Security Team watching &lt;br&gt;Firewall Logs" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;fontSize=24;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="-ZpnABaQW_X1ukxt01rs-1" value="Security Team watching &lt;br&gt;Firewall Logs" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;fontSize=24;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1210" y="640" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-ZpnABaQW_X1ukxt01rs-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ZpnABaQW_X1ukxt01rs-1" target="Bl6N6wYxr86cR-2-UCs6-12">
+        <mxCell id="-ZpnABaQW_X1ukxt01rs-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-ZpnABaQW_X1ukxt01rs-1" target="Bl6N6wYxr86cR-2-UCs6-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="696" as="sourcePoint" />
             <mxPoint x="670" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jnLRbwkvK_OeXzF6DrZ0-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#d60000;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="70" width="184.5" height="184.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
