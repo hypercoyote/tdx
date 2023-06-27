@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T20:34:47.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="RL5WWSMF1uXFM9sDSq1Z" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T20:52:48.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="Y3jylZVjK0E23-on7LNF" version="21.5.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1791" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2107" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -181,6 +181,104 @@
           <mxGeometry x="-0.558" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="52" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-31" value="" style="shape=link;html=1;rounded=0;fontSize=24;labelBackgroundColor=none;entryX=0.444;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tentwsTDsZKtuL-YGYM0-54">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="830" y="1760.5" as="sourcePoint" />
+            <mxPoint x="831" y="1838.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-32" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;labelBackgroundColor=none;" edge="1" parent="1" source="tentwsTDsZKtuL-YGYM0-38">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1240" y="1800" as="sourcePoint" />
+            <mxPoint x="1390" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-33" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;labelBackgroundColor=none;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="609" y="1840" as="sourcePoint" />
+            <mxPoint x="1490" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-34" value="Corporate Network" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="tentwsTDsZKtuL-YGYM0-33">
+          <mxGeometry x="-0.1241" y="1" relative="1" as="geometry">
+            <mxPoint x="-275" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-35" value="Email Servers" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="1370" width="861" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-36" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontSize=24;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1760.5" width="252.38" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=24;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.1454545454544" y="1880" as="sourcePoint" />
+            <mxPoint x="570" y="2115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-38" value="User: tlong@gmail.com&lt;br&gt;Host Machine&lt;br&gt;MUA: Thunderbird" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;fontSize=24;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1610" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-39" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;labelBackgroundColor=none;" edge="1" parent="1" source="tentwsTDsZKtuL-YGYM0-36">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="472" y="1840" as="sourcePoint" />
+            <mxPoint x="529" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=24;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1565" as="sourcePoint" />
+            <mxPoint x="569.1454545454544" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-41" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="529" y="1800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF3333;fillColor=none;strokeWidth=7;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1370" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-47" value="" style="shape=link;html=1;rounded=0;fontSize=24;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tentwsTDsZKtuL-YGYM0-36">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="435" y="1640" as="sourcePoint" />
+            <mxPoint x="504" y="1810.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-48" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Sending email to user@icloud.com&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1510" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-49" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;icloud.com&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2050" width="450" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-50" value="Email Server&lt;br&gt;(*@icloud.com)&lt;br&gt;MTA: Postfix" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.email_service;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;fontSize=24;" vertex="1" parent="tentwsTDsZKtuL-YGYM0-49">
+          <mxGeometry x="55.870000000000005" y="50" width="86.51" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-77" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;DMARC: Tells email &lt;br&gt;server what to do &lt;br&gt;with the message&lt;br&gt;if&amp;nbsp;SPF/DKIM fail&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tentwsTDsZKtuL-YGYM0-49">
+          <mxGeometry x="192.38" y="65" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-53" value="" style="shape=link;html=1;rounded=0;fontSize=24;labelBackgroundColor=none;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tentwsTDsZKtuL-YGYM0-36">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="220" y="1901.04" as="sourcePoint" />
+            <mxPoint x="188" y="2050.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-54" value="User: neida@icloud.com&lt;br&gt;iPhone&lt;br style=&quot;font-size: 24px;&quot;&gt;MUA: Email app" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-61" value="Email Relay" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1740" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-62" value="Email Archiver" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1990" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-70" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;google.com&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1360" width="420" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-71" value="DNS Server&lt;br&gt;with SPF Records &lt;br&gt;listing valid &lt;br&gt;email servers" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.email_service;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;fontSize=24;" vertex="1" parent="tentwsTDsZKtuL-YGYM0-70">
+          <mxGeometry x="62.870000000000005" y="41" width="86.51" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tentwsTDsZKtuL-YGYM0-78" value="Email Server&lt;br&gt;(*@gmail.com)&lt;br&gt;MTA: Sendmail" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.email_service;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="385.87" y="1410" width="86.51" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
