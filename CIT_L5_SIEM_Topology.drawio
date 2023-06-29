@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T20:13:03.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="OYZM0vAHWiorDaSRO22x" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T20:27:57.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="j6dEL4DQJbRz54O4gIQz" version="21.5.1" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1791" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
             <mxPoint x="-28" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0lCcuRJ2zNhaznUkWnLr-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#ff0000;strokeWidth=4;" edge="1" parent="1" source="0lCcuRJ2zNhaznUkWnLr-3" target="J97jLcHY--1p8l95gELh-4">
+        <mxCell id="0lCcuRJ2zNhaznUkWnLr-25" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#ff0000;strokeWidth=4;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="0lCcuRJ2zNhaznUkWnLr-3" target="J97jLcHY--1p8l95gELh-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1440" y="655" as="sourcePoint" />
             <mxPoint x="1490" y="605" as="targetPoint" />
@@ -218,6 +218,21 @@
         <mxCell id="0lCcuRJ2zNhaznUkWnLr-39" value="Security Logs forwarded&lt;br&gt;via Splunk Universal Forwarder" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="0lCcuRJ2zNhaznUkWnLr-38">
           <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
             <mxPoint x="187" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lCcuRJ2zNhaznUkWnLr-40" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#ff0000;strokeWidth=4;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="0lCcuRJ2zNhaznUkWnLr-33" target="m5fubWs7SPo7fRssxc15-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="502" as="sourcePoint" />
+            <mxPoint x="1092" y="507" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="927" y="377" />
+              <mxPoint x="1000" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lCcuRJ2zNhaznUkWnLr-41" value="Syslogs from Pfsense&lt;br&gt;including Snort logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="0lCcuRJ2zNhaznUkWnLr-40">
+          <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
+            <mxPoint x="63" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
