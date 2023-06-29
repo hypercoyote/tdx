@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T19:31:39.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="KkmZssofl5rWlpEjkXlg" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T19:59:07.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="YL5_AC2N809GpRZXWWcK" version="21.5.1" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1791" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -164,6 +164,21 @@
         <mxCell id="0lCcuRJ2zNhaznUkWnLr-26" value="Monitoring LAN interface" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="0lCcuRJ2zNhaznUkWnLr-25">
           <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
             <mxPoint x="136" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lCcuRJ2zNhaznUkWnLr-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#0091ff;strokeWidth=4;" edge="1" parent="1" source="0lCcuRJ2zNhaznUkWnLr-3" target="m5fubWs7SPo7fRssxc15-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1115" y="649.5" as="sourcePoint" />
+            <mxPoint x="930" y="352.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1100" y="640" />
+              <mxPoint x="1040" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lCcuRJ2zNhaznUkWnLr-30" value="Snort Logs &lt;br&gt;stored on&lt;br&gt;PFSense" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="0lCcuRJ2zNhaznUkWnLr-29">
+          <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
+            <mxPoint x="-39" y="-159" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
